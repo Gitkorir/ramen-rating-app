@@ -24,14 +24,13 @@ body {
 }
 
 #ramen-menu img {
-  width: 150px;
+  width: 200px;
   height: 150px;
   object-fit: cover;
   cursor: pointer;
 }
 
 #ramen-detail {
-  border: 1px solid #ccc;
   padding: 20px;
   margin-top: 20px;
   width: 300px;
