@@ -3,7 +3,8 @@ const ramens = [
     id: 1,
     name: "Shoyu Ramen",
     restaurant: "Ichiran",
-    image: "/home/arnold/Downloads/nirvana.jpg",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwp9vtNv50gjkDaTD9Xd90hDpweygSRG0AA&s",
     rating: 5,
     comment: "Delicious!",
   },
@@ -11,7 +12,8 @@ const ramens = [
     id: 2,
     name: "Miso Ramen",
     restaurant: "Menya",
-    image: "/home/arnold/Downloads/naruto.jpg",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4po9hTYgrQs-VsGJT0g3fXH_Wr_STjvikZg&s",
     rating: 4,
     comment: "Very flavorful!",
   },
@@ -19,7 +21,8 @@ const ramens = [
     id: 3,
     name: "Tonkotsu Ramen",
     restaurant: "Ramen-ya",
-    image: "/home/arnold/Downloads/shoyu.jpg",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrGPEifNenuWfkLgIGzetpJJaK_kLbK-VGKQ&s",
     rating: 3,
     comment: "nitokimasu!",
   },
@@ -27,7 +30,8 @@ const ramens = [
     id: 4,
     name: "Korijo",
     restaurant: "Ramen-ya",
-    image: "/home/arnold/Downloads/kojiro.jpg",
+    image:
+      "https://dzglkev4c34xb.cloudfront.net/horego.com/kuta-selatan/japanese-restaurant/kojiro-ramen/food/af1qipnke65pq4tyeqnrsat07agrgstqdbv3j2oyll-q.jpg",
     rating: 4,
     comment: "konichiwaa!",
   },
@@ -35,7 +39,8 @@ const ramens = [
     id: 5,
     name: "Gyukotsu",
     restaurant: "Ramen-ya",
-    image: "/home/arnold/Downloads/gyukotsu (1).jpg",
+    image:
+      "https://preview.redd.it/homemade-kitakata-ramen-v0-3fsw0et83zoe1.jpeg?width=1080&crop=smart&auto=webp&s=6b9d4b37dd0e6e60a60f8f4d42e64d30edfb6c67",
     rating: 5,
     comment: "Boy ooooow Boy!",
   },
