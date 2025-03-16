@@ -48,7 +48,9 @@ function displayRamens() {
 
 function handleClick(ramen) {
   const ramenDetail = document.getElementById("ramen-detail");
-  ramenDetail.innerHTML = `
+  ramenDetail.innerHTML = `             <img src="${
+    ramen.image
+  }" alt="Image of ${ramen.name}" style="width: 150px; height: 150px;"  />
                 <h2>${ramen.name}</h2>
                 <p>Restaurant: ${ramen.restaurant}</p>
                 ${ramen.rating ? `<p>Rating: ${ramen.rating}</p>` : ""}
