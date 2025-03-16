@@ -8,6 +8,28 @@
   </head>
   <body>
     <h1>Ramen-Rater</h1>
-    <script src="index.js"></script>
+    <div id="ramen-menu"></div>
+    <div id="ramen-detail"></div>
+
+    <form id="ramen-form">
+      <input type="text" id="name" placeholder="Ramen Name" required />
+      <input type="text" id="restaurant" placeholder="Restaurant" required />
+      <input
+        type="text"
+        id="image"
+        placeholder="Image Name (e.g., shoyu.jpg)"
+        required
+      />
+      <input
+        type="number"
+        id="rating"
+        placeholder="Rating (1-5)"
+        min="1"
+        max="5"
+      />
+      <textarea id="comment" placeholder="Comment"></textarea>
+      <button type="submit">Add Ramen</button>
+    </form>
+    <script src="./index.js"></script>
   </body>
 </html>

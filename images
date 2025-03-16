@@ -1,10 +1,22 @@
-<img-1 src="https://moringa.instructure.com/courses/967/files/517801/preview">
-  <img-2 src="https://moringa.instructure.com/courses/967/files/517800/preview">
+<img-1
+  src="https://moringa.instructure.com/courses/967/files/517801/preview"
+  alt="Gyukotsu"
+>
+  <img-2
+    src="https://moringa.instructure.com/courses/967/files/517800/preview"
+    alt="kojiro"
+  >
     <img-3
       src="https://moringa.instructure.com/courses/967/files/517799/preview"
+      alt="Naruto"
     >
       <img-4
         src="https://moringa.instructure.com/courses/967/files/517797/preview"
+        alt="Shoyu"
       >
-      </img-4></img-3></img-2
+        <img-5
+          src="https://moringa.instructure.com/courses/967/files/517798/preview"
+          alt="Nirvana"
+        >
+        </img-5></img-4></img-3></img-2
 ></img-1>
