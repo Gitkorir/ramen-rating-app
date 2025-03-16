@@ -20,18 +20,24 @@ const ramens = [
     name: "Tonkotsu Ramen",
     restaurant: "Ramen-ya",
     image: "/home/arnold/Downloads/shoyu.jpg",
+    rating: 3,
+    comment: "nitokimasu!",
   },
   {
     id: 4,
     name: "Korijo",
     restaurant: "Ramen-ya",
     image: "/home/arnold/Downloads/kojiro.jpg",
+    rating: 4,
+    comment: "konichiwaa!",
   },
   {
     id: 5,
     name: "Gyukotsu",
     restaurant: "Ramen-ya",
     image: "/home/arnold/Downloads/gyukotsu (1).jpg",
+    rating: 5,
+    comment: "Boy ooooow Boy!",
   },
 ];
 
